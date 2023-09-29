@@ -1,13 +1,13 @@
-package com.example.security4;
+package study.security;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Security4Application {
+public class SecurityStudyApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(Security4Application.class, args);
+        SpringApplication.run(SecurityStudyApplication.class, args);
     }
 
 }
